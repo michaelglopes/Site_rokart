@@ -194,7 +194,6 @@ export default function LandingPage() {
                 <span className="break-all">alessandrosilvalopes27@gmail.com</span>
               </li>
               
-              {/* Adicionei a função de clique no WhatsApp direto no número do rodapé também! */}
               <li 
                 onClick={openWhatsApp}
                 className="flex items-center gap-3 justify-center md:justify-start cursor-pointer hover:text-[#22d3ee] transition-colors"
